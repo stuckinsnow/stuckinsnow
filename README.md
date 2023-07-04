@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 I’m currently working on **A few secret projects :).**
+- 🔭 I’m currently working on **a few secret projects :).**
 
-- 💬 Ask me about **Server deployment!**
+- 💬 Ask me about **life in Canada, Server deployment or chocolate!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
