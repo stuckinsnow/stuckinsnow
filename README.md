@@ -16,23 +16,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Node.js
-- React
-- TypeScript
-- Javascript
+- Node.js, React
+- TypeScript, - Javascript
 - Postman
-- HTML
-- SASS
-- CSS
+- HTML, SASS, CSS
 - Jest
-- PostGres
-- MySQL (until the community can decide on what to call it, whether 'sequel' or 'es que 'el', I propose we call it Squirrel)
-- Graphql
-- Apollo
-- WordPress
-- Heroku
-- Adobe CC
-- Figma
+- PostGres, MySQL (until we unify those that call it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
+- Graphql, Apollo
+- WordPress 
+- Adobe CC, Figma
 - Jira
-- AWS
+- AWS, Heroku, Netlify
 - Linux (all major distros, arch & gentoo)
