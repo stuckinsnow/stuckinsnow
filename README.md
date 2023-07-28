@@ -14,8 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Node.js, React
-- TypeScript, - Javascript
+- Node.js, React, Express
+- TypeScript, Javascript
 - Postman
 - HTML, SASS, CSS
 - Jest
