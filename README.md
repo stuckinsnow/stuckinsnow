@@ -21,8 +21,8 @@
 - Jest
 - PostGres, MySQL (to unify those that call it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
 - Graphql, Apollo
-- WordPress 
+- WordPress
 - Adobe CC, Figma
 - Jira
-- AWS, Heroku, Netlify
+- AWS, Heroku, Netlify & LAMP/MERN Hosting
 - Linux (all major distros, arch & gentoo)
