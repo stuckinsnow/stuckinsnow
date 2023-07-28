@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">A full stack web developer originally from the UK!</h3>
+<h1 align="center">Hi 👋, I'm 🥑 Philip 🥑</h1>
+<h3 align="center">I'm a full stack web developer originally from the UK!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 I’m currently working on **a few secret projects :).**
+- 🔭 I’m currently working on **a few secret projects :), and I'm also casually working on my portfolio.** Prior to intensively studying web development in 2023, I had worked on the occasional WordPress theme and tinkered around with a RaspberryPI.
+- You can reach me on linkedin!
 
-- 💬 Ask me about **life in Canada or chocolate!**
+- 💬 Ask me about **life in Canada, hiking, competitive FPS gaming or chocolate!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
