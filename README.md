@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 I’m currently working on **a few secret projects :), and I'm also casually working on my portfolio.** Prior to intensively learning web development in 2023, I had worked on the occasional WordPress theme and tinkered around with code/scripts for a RaspberryPI. Web development has been an underlying passion ever since buying my first HTML/CSS book at 14, but this year I have decided to throw all of my energy at it.
+- 🔭 I’m currently working on **a few secret projects :), and I'm also casually working on my portfolio.** 
   
-- 💬 Ask me about **life in Canada, hiking, competitive FPS gaming or chocolate!** 
+- 💬 Ask me about **life in Canada, hiking, competitive gaming or chocolate!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
