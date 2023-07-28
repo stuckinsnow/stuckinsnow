@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **a few secret projects :), and I'm also casually working on my portfolio.** Prior to intensively learning web development in 2023, I had worked on the occasional WordPress theme and tinkered around with a RaspberryPI. It has always been an underlying passion but this year I have persued it a lot further.
   
-- You can reach me on linkedin.
-
 - 💬 Ask me about **life in Canada, hiking, competitive FPS gaming or chocolate!** 
 
 <h3 align="left">Connect with me:</h3>
