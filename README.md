@@ -19,7 +19,7 @@
 - Postman
 - HTML, SASS, CSS
 - Jest
-- PostGres, MySQL (until we unify those that call it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
+- PostGres, MySQL (to unify those that call it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
 - Graphql, Apollo
 - WordPress 
 - Adobe CC, Figma
