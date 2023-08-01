@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **a few secret projects :), and I'm also casually working on my portfolio.** 
   
-- 💬 Ask me about **life in Canada, hiking, competitive gaming or chocolate!** 
+- 💬 Ask me about **life in Canada, hiking, competitive gaming or chocolate!**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stuckinsnow)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
