@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 I’m currently working on **a few secret projects :), and I'm also casually working on my portfolio.** 
+- 🔭 I’m currently working on **two secret projects :)** You can view my portfolio at [https://philiplucas.netlify.app/](https://philiplucas.netlify.app/)
   
 - 💬 Ask me about **life in Canada, hiking, competitive gaming or chocolate!**
 
