@@ -17,11 +17,12 @@
 - TypeScript, Javascript
 - Postman
 - HTML, SASS, CSS
-- Jest
+
 - PostGres, MySQL (undecided between pronouncing it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
 - Graphql, Apollo
 - WordPress
 - Adobe CC, Figma
 - Jira
 - AWS, Heroku, Netlify & LAMP/MERN Hosting
+  
 - Linux (all major distros, arch & gentoo)
