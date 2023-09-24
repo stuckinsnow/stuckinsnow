@@ -11,12 +11,12 @@
 <a href="https://linkedin.com/in/lswr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lswr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies:</h3>
 
 - Node.js, React, Express
 - TypeScript, Javascript
-- Postman
 - HTML, SASS, CSS
+- Postman
 
 - PostGres, MySQL (undecided between pronouncing it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
 - Graphql, Apollo
