@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
 - 🔭 You can view my portfolio at [https://philiplucas.netlify.app/](https://philiplucas.netlify.app/)
-- Just recently published [UpDaily](https://github.com/updaily-ca/updaily-frontend) - my largest project yet!
+- Just recently published [UpDaily](https://updaily.netlify.app/) - my largest project yet!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
