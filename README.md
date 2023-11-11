@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 You can view my portfolio at [https://devpad.net/](https://devpad.net). 
+- 🔭 You can view my portfolio at [https://devpad.net](https://devpad.net). 
 - Just recently published [UpDaily](https://updaily.netlify.app/) - my largest project yet!
 
 <h3 align="left">Connect with me:</h3>
