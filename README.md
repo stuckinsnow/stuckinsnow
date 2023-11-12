@@ -28,4 +28,5 @@
 * Linux (all major distros)
 
 <h3 align="left">Design:</h3>
-* Adobe CC, Figma
+
+* Adobe CC (entire cloud), Figma
