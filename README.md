@@ -13,16 +13,19 @@
 
 <h3 align="left">Technologies:</h3>
 
-- Node.js, React, Express
-- TypeScript, Javascript
-- HTML, SASS, CSS
-- Postman
+* Node.js, React, Express, WordPress
+* TypeScript, Javascript, HTML, SASS, CSS
+* PostGres, MySQL (Squirrel)
+* Graphql
 
-- PostGres, MySQL (undecided between pronouncing it 'sequel' or 'ess queue 'el', I propose we call it Squirrel)
-- Graphql, Apollo
-- WordPress
-- Adobe CC, Figma
-- Jira
-- AWS, Heroku, Netlify & LAMP/MERN Hosting
+* Postman 
+* Heroku, Netlify
   
-- Linux (all major distros, arch & gentoo)
+<h3 align="left">Server setup:</h3>
+
+* AWS
+* LAMP/MERN Hosting
+* Linux (all major distros)
+
+<h3 align="left">Design:</h3>
+* Adobe CC, Figma
