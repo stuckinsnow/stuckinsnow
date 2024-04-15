@@ -7,17 +7,16 @@
 
 #### Technologies 
 
-* Node.js, React, Express, WordPress
+* Next.js, React, Express, Node.js, CMS, 
 * TypeScript, Javascript, HTML, SASS, CSS
-* PostGres, MySQL
-* Graphql
+* PostGres, MySQL, Graphql
 * Postman 
   
 #### Server setup
 
+* Linux (all major distros, inc. arch!), KVM, Docker
 * AWS, Heroku, Netlify
 * LAMP/MERN Hosting
-* Linux (all major distros)
 
 #### Design 
 
