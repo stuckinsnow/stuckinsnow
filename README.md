@@ -7,10 +7,10 @@
 
 #### Technologies 
 
-* Next.js, React, Express, Node.js, CMS, 
+* Next.js, React.js, Express, Node, CMS, 
 * TypeScript, Javascript, HTML, SASS, CSS
 * PostGres, MySQL, Graphql
-* Postman 
+* Postman, Asana, Jira
   
 #### Server setup
 
