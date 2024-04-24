@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 You can view my portfolio at [devpad.net](https://devpad.net).
+- 🔭 I am currently building a blog in nextjs. You can view my portfolio at [devpad.net](https://devpad.net). 
 
 #### Technologies 
 
