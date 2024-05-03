@@ -8,7 +8,7 @@
 #### Technologies 
 
 * Next.js, React.js, Express, Node, CMS, 
-* TypeScript, Javascript, HTML, SASS, CSS
+* TypeScript, Javascript, HTML, SASS, Tailwind, CSS
 * PostGres, MySQL, Graphql
 * Postman, Asana, Jira
   
