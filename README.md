@@ -1,5 +1,5 @@
 # Hi 👋, I'm Philip 
-#### Full stack web developer, originally from the UK, with sysadmin and photography experience.
+#### I'm a full stack web developer, with some sysadmin experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
