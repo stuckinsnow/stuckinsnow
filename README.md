@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 I am currently building a blog in nextjs. My portfolio at [devpad.net](https://devpad.net) is also being redesigned. 
+- 🔭 I just deployed a new blog at [devpad.net](https://devpad.net). It is a full stack nextjs app using postgresql and graphql, coded in typescript. 
 
 #### Technologies 
 
