@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-- 🔭 I just deployed a new blog at [devpad.net](https://devpad.net). It is a full stack nextjs app using postgresql and graphql, coded in typescript. 
+- 🔭 My blog can be found at [devpad.net](https://devpad.net). It is a full stack nextjs app using dockerised postgresql and graphql, coded in typescript and hosted on a VPS.
 
 #### Technologies 
 
