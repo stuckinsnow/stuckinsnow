@@ -22,3 +22,8 @@
 #### Design 
 
 * Adobe CC (entire cloud), Figma
+
+#### Games
+
+Top 50 kovaaks
+Top 5 in a few FPS
