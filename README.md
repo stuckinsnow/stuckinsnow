@@ -25,6 +25,9 @@ I've dabbled in web development for quite a few years but hadn't taken it seriou
 
 * Adobe CC (entire cloud), Figma
 
-### Photography
+#### Photography
 
-Lastly, I am a photographer but I do this just for fun! I pursued this hobby to prove to myself I could get good at something I had no hidden talent at, and I've enjoyed it since. I still don't think it comes as naturally to me as coding, but it's a nice relaxing hobby: [photocasa.net](https://photocasa.net). 
+Lastly, I am a photographer but I have stopped taking it seriously! I originally pursued this hobby to prove to myself I could get good at something I had no hidden talent at, and I've enjoyed it since. I still don't think it comes as naturally to me as coding, but it's a nice and relaxing hobby: [photocasa.net](https://photocasa.net). It has taught me a lot about colour theory and lighting, things I have found useful when designing projects. 
+
+* Adobe Photoshop
+* Capture One Pro
