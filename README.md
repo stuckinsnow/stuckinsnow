@@ -6,7 +6,6 @@ I've dabbled in web development for quite a few years but hadn't taken it seriou
 
 - 🌎 My portfolio can be found at [https://expsr.com/](https://expsr.com/). It is a reactjs project hosted on netlify. 
 - 🔭 My latest project is a blog, it can be found at [devpad.net](https://devpad.net). It is a full stack nextjs app using dockerised postgresql and graphql, coded in typescript and hosted on a VPS.
-- 🎮 Retired gamer; top 5 in a few games, top 50 in kovaaks after 250 hours.
 
 #### Technologies 
 
