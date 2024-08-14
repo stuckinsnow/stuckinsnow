@@ -17,16 +17,16 @@ I've dabbled in web development for quite a few years but hadn't taken it seriou
 #### Server setup
 
 * Linux (all major distros, inc. arch!), KVM, Docker
-* AWS, Heroku, Netlify
 * LAMP/MERN Hosting
 
 #### Design 
 
 * Adobe CC (entire cloud), Figma
 
-#### Photography
+#### Photography / Design
 
 Lastly, I do photography as a hobby! I originally pursued this to prove to myself I could get good at something I had no hidden talent at, and I've enjoyed it since. I still don't think it comes as naturally to me as coding, but it's a nice and relaxing hobby: [photocasa.net](https://photocasa.net). It has taught me a lot about colour theory and lighting.
 
-* Adobe Photoshop
+* Adobe CC (entire cloud)
+* Figma 
 * Capture One Pro
