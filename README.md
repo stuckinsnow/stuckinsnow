@@ -21,7 +21,7 @@ I've dabbled in web development for quite a few years but hadn't taken it seriou
 
 #### Photography & Design
 
-Photography doesn't come as naturally to me as coding, but it's a nice and relaxing hobby that has taught me a lot about colour theory: [photocasa.net](https://photocasa.net). 
+Photography doesn't come as naturally to me as coding, but it's a nice and relaxing hobby. Photography has taught me a lot about colour theory and lighting: [photocasa.net](https://photocasa.net). 
 
 * Adobe CC (entire cloud)
 * Figma 
