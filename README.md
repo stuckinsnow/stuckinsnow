@@ -16,7 +16,7 @@ I'm a bootcamp post-graduate (June, 2023), currently studying a bachelors in com
   
 #### Server setup
 
-* Linux (all major distros, inc. arch!), KVM, Docker
+* Linux (all major distros), KVM, Docker
 * LAMP/MERN Hosting 
 
 #### Photography & Design
