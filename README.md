@@ -6,14 +6,16 @@ I'm a boot-camp post-graduate, full stack software developer working at [https:/
 
 - 🔭 My blog [devpad.net](https://devpad.net).
 
-#### Technologies 
+#### Main Technologies 
 
-* Next.js, React.js, TypeScript, Javascript, PostGres, MySQL, REST, Graphql 
+* Next.js, React.js,
+* TypeScript, JavaScript
+* PostGres, MySQL, REST, and Graphql 
   
 #### Server setup
 
 * Linux, KVM, Docker
 
-#### Photography 
+#### Hobby
 
 Photography doesn't come as naturally to me as coding, but it's a fun hobby: [photocasa.net](https://photocasa.net).
