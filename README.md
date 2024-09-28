@@ -1,6 +1,6 @@
 # Hi 👋, I'm Philip 
 
-I'm a bootcamp post-graduate, and full stack software developer working at [polymuse.tech](https://polymuse.tech/). In my free time, I'm collecting educational credentials i.e. a bachelors in comp sci with the intention of pursuing a masters at Georgia Tech.
+I'm a bootcamp post-graduate and full stack software developer working at [polymuse.tech](https://polymuse.tech/). In my free time, I'm studying a bachelors in Computer Science with the intention of pursuing a masters at Georgia Tech.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
