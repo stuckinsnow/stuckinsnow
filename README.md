@@ -1,6 +1,6 @@
 # Hi 👋, I'm Philip 
 
-A full stack software engineer working at [polymuse.tech](https://polymuse.tech/). In my free time, I'm studying a bachelors in Computer Science with plans to pursue a masters at Georgia Tech.
+A full stack software engineer at [polymuse.tech](https://polymuse.tech/). In my free time, I'm studying a bachelors in Computer Science and planning to continue with a masters at Georgia Tech.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
@@ -10,12 +10,13 @@ A full stack software engineer working at [polymuse.tech](https://polymuse.tech/
 
 * Next.js, React.js,
 * TypeScript, JavaScript
-* PostGres, MySQL, REST, and Graphql 
+* REST and Graphql
+* PostGres, MySQL, & Firebase
   
 #### Server setup
 
-* Linux, KVM, Docker
+* Linux, KVM, Docker, Coolify, AWS & Oracle Cloud
 
 #### Hobby
 
-Photography doesn't come as naturally to me as coding, but it's a fun hobby: [photocasa.net](https://photocasa.net).
+Photography: [photocasa.net](https://photocasa.net).
