@@ -19,4 +19,4 @@ A full stack software engineer at [polymuse.tech](https://polymuse.tech/). In my
 
 #### Hobby
 
-Photography: [photocasa.net](https://photocasa.net).
+Photography [photocasa.net](https://photocasa.net).
