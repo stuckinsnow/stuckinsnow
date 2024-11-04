@@ -1,6 +1,6 @@
 # Hello 👋, I'm Philip 
 
-A full stack software engineer at [polymuse.tech](https://polymuse.tech/). In my free time, I'm studying a bachelors in Computer Science with plans to follow up with a masters at Georgia Tech. I'm also learning Golang.
+A full stack software engineer at [polymuse.tech](https://polymuse.tech/). In my free time, I'm studying a bachelors in Computer Science with plans to follow up with a masters at Georgia Tech. I'm currently learning Golang.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
