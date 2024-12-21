@@ -21,7 +21,7 @@ If you completed a bootcamp or are a university graduate based in Canada, the UK
 
 * Linux, KVM, Docker, Coolify, AWS & Oracle Cloud
 
-#### Favorite Linux Apps
+#### Main (Linux) Development Tools
 
 Vim, Fzf, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge! 
 
