@@ -1,6 +1,6 @@
 # Hello 👋, I'm Philip 
 
-A full stack software engineer at [polymuse.tech](https://polymuse.tech/) & also currently working on a large ecommerce project. Outside of work, I'm studying a bachelors in Computer Science with plans to follow up with a masters at Georgia Tech.
+A full stack software engineer at [polymuse.tech](https://polymuse.tech/) & also currently working on a large ecommerce project. Outside of work, I'm studying a bachelors in Computer Science with plans to follow up with a masters at Georgia Tech. I pivoted to tech in 2023 after graduating a Bootcamp; previously, I managed Vancouver's largest dog hotel, and put 40,000 hours into competing in FPS games at a professional level.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
