@@ -6,7 +6,7 @@ My full-time journey into development began in 2023, after completing a bootcamp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-I'm also building a tech community for university and bootcamp graduates, primarily in Canada, UK and the USA.
+If you completed a bootcamp or are a university graduate based in Canada, the UK or the USA, I am currently building a tech community. The site is being remade!
 
 - 🔭 [devpad.net](https://devpad.net).
 
