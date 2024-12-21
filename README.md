@@ -17,6 +17,10 @@ A full stack software engineer at [polymuse.tech](https://polymuse.tech/) & also
 
 * Linux, KVM, Docker, Coolify, AWS & Oracle Cloud
 
+#### Favorite Linux Apps
+
+Vim, Fzf, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge! 
+
 #### Hobby
 
 Photography [photocasa.net](https://photocasa.net).
