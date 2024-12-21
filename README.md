@@ -4,6 +4,8 @@ A full stack software engineer at [polymuse.tech](https://polymuse.tech/) & also
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
+I'm also building a tech community for university and bootcamp graduates, primarily in Canada, UK and the USA. 
+
 - 🔭 [devpad.net](https://devpad.net).
 
 #### Main Technologies 
