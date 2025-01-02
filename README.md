@@ -4,7 +4,7 @@ A full stack software engineer at [polymuse.tech](https://polymuse.tech/) & also
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /> </p>
 
-I am also currently rebuilding a tech community site for a discord server I run.
+I am also currently rebuilding a site for a tech community I'm part of.
 - 🔭 [devpad.net](https://devpad.net).
 
 #### Main Technologies 
