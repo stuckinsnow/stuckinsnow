@@ -9,12 +9,12 @@ I am also rebuilding a community site for university/bootcamp graduates, and peo
 
 #### Main Technologies 
 
-*  TypeScript, JavaScript, Lua & learning Go
-*  Next.js, React.js,
+*  TypeScript, JavaScript, and Lua.
+*  Next.js, React.js.
   
 #### DevOps
 
-* Linux, KVM, Docker, Coolify, AWS & Oracle Cloud
+* Linux, KVM, Docker, Coolify, AWS & Oracle Cloud.
 
 #### Main (Linux) Development Tools
 
