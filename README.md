@@ -4,9 +4,6 @@ A full stack software engineer working at a startup, while also studying a bache
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
-I am also rebuilding a community site for university/bootcamp graduates, and people with 1+ years industry experience.
-- 🔭 [devpad.net](https://devpad.net).
-
 #### Main Technologies 
 
 *  TypeScript, JavaScript, and Lua.
