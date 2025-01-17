@@ -6,7 +6,7 @@ A full stack software engineer working at [Polymuse](https://polymuse.tech/); al
 
 #### Main Technologies 
 
-*  TypeScript, JavaScript, and Lua.
+*  TypeScript, JavaScript, and a tiny bit of Lua.
 *  Next.js, React.js.
   
 #### DevOps
