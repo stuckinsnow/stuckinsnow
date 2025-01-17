@@ -1,6 +1,6 @@
 # Hello 👋, I'm Philip 
 
-A full stack software engineer working at a startup, while also studying a bachelors in Computer Science.
+A full stack software engineer working at [Polymuse](https://polymuse.tech/); also studying a bachelors in Computer Science. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
