@@ -14,6 +14,10 @@ A software engineer at [Polymuse](https://polymuse.tech/).
 
 Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge! 
 
+#### Learning
+
+Golang
+
 #### Hobby
 
 Photography [photocasa.net](https://photocasa.net).
