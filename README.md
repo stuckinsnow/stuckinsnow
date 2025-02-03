@@ -6,7 +6,7 @@ A software engineer at [Polymuse](https://polymuse.tech/).
 
 ### Main
 
-*  TypeScript, JavaScript, a tiny bit of Lua, and learning Go.
+*  TypeScript, JavaScript, Lua, and learning Go.
 *  Next.js, React.js.
 *  Linux, KVM, Docker, Coolify, AWS & Oracle Cloud.
 
