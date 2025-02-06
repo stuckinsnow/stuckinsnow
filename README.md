@@ -12,8 +12,4 @@ A software engineer at [Polymuse](https://polymuse.tech/).
 
 ### Tools
 
-Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge! 
-
-### Hobby
-
-Photography [photocasa.net](https://photocasa.net).
+Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge!
