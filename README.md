@@ -13,3 +13,10 @@ A software engineer at [Polymuse](https://polymuse.tech/).
 ### Tools
 
 Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge!
+
+### Todo
+
+* Complete [devpad.net](https://devpad.net)
+* Complete bachelors in computer science
+* Start doing leetcodes
+* Get to top 0.1% on leetcode
