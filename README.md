@@ -18,5 +18,4 @@ Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak
 
 * Complete [devpad.net](https://devpad.net)
 * Complete bachelors in computer science
-* Start doing leetcode
-* Get to top 0.1% on leetcode
+* Do lots of leetcode
