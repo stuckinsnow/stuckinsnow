@@ -12,4 +12,4 @@ A software engineer at [Polymuse](https://polymuse.tech/). Currently interested 
 
 ### Tools
 
-Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, Yaak & Microsoft Edge!
+Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, & Yaak!
