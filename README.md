@@ -14,6 +14,7 @@ A software engineer at [Polymuse](https://polymuse.tech/).
 
 * Learning Python, Go and Lua.
 * Building a community website for postgraduates at devpad.net.
+* Studying a bachelor's in computer science.
 
 ### Tools
 
