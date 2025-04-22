@@ -3,8 +3,6 @@
 A software engineer at [Polymuse](https://polymuse.tech/).
 Casually building [Devpad](https://devpad.net/).
 
-Ex competitive gamer (top 5 in a few games).
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
 ### Main
