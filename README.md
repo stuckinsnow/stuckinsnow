@@ -15,7 +15,7 @@ Ex competitive gamer (top 5 in a few games).
 
 ### Currently
 
-* Learning Python, Go and Lua.
+* Very slowly learning Python, Go and Lua.
 * Building a community website for postgraduates at devpad.net.
 * Studying a bachelor's in computer science.
 
