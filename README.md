@@ -13,7 +13,7 @@ Casually building [Devpad](https://devpad.net/).
 
 ### Currently
 
-* Very slowly learning Python, Go and Lua.
+* Learning Python, Go and Lua.
 * Building a community website for postgraduates at devpad.net.
 * Studying a bachelor's in computer science.
 
