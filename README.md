@@ -7,13 +7,13 @@ Casually building [Devpad](https://devpad.net/).
 
 ### Main
 
-*  TypeScript, and JavaScript.
+*  TypeScript, JavaScript, and a little bit of Lua.
 *  Next.js, React.js.
 *  Linux, KVM, Docker, Coolify, AWS & Oracle Cloud.
 
 ### Currently
 
-* Learning Python, Go and Lua.
+* Learning Go.
 * Building a community website for postgraduates at devpad.net.
 * Studying a bachelor's in computer science.
 
