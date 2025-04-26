@@ -1,7 +1,8 @@
 # Hello 👋, I'm Philip 
 
 A software engineer at [Polymuse](https://polymuse.tech/).
-Casually building [Devpad](https://devpad.net/). 
+Casually building [Devpad](https://devpad.net/) (hideous at the moment). 
+Ex competitive gamer (top 5 of a few things).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
