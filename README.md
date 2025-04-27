@@ -19,4 +19,4 @@ Casually building [Devpad](https://devpad.net/) (hideous at the moment).
 
 ### Tools
 
-Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Starship, Kitty, Beekeeper, & Yaak!
+Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Yazi, LSD, Starship, Kitty, Beekeeper, & Yaak!
