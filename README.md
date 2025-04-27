@@ -17,6 +17,6 @@ Casually building [Devpad](https://devpad.net/) (hideous at the moment).
 * Learning Go.
 * Studying a bachelor's in computer science.
 
-### Tools
+### Tools -- Listing these in case I have to reinstall one day haha
 
-Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Yazi, LSD, Delta, Starship, Kitty, Beekeeper, & Yaak!
+Vim, Fzf, Ripgrep, Lazydocker, Lazygit, Zoxide, Yazi, LSD, Delta, FD, Git Diff, Starship, Kitty, Beekeeper, & Yaak! 
