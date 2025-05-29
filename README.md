@@ -16,6 +16,15 @@ Casually building [Devpad](https://devpad.net/) (hideous at the moment).
 
 * Learning Go.
 * Studying a bachelor's in computer science.
+* Creating an nvim plugin
+
+https://github.com/user-attachments/assets/85771ca7-82ec-4d48-8f71-125b7c134796
+
+- Access workflow logs and view whether they succeeded; split window or window float
+- Access issues, and view the latest comments
+- Access prs; if data has been pulled, it will use that for performance. If the pr is from a remote repo, it will use live data
+- Access individual files (local only) or diff view all changes in a pr
+- Spinners for async functions
 
 ### Tools 
 
