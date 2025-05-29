@@ -18,6 +18,7 @@ Casually building [Devpad](https://devpad.net/) (hideous at the moment).
 * Studying a bachelor's in computer science.
 * Creating an nvim plugin
 
+### Nvim Github Plugin
 https://github.com/user-attachments/assets/85771ca7-82ec-4d48-8f71-125b7c134796
 
 - Access workflow logs and view whether they succeeded; split window or window float
