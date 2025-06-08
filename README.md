@@ -16,7 +16,6 @@ Casually building [Devpad](https://devpad.net/) (hideous at the moment).
 
 * Learning Go.
 * Studying a bachelor's in computer science.
-* Creating an nvim plugin.
 
 ### Tools 
 
