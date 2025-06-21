@@ -1,6 +1,6 @@
 # Hello 👋, I'm Philip 
 
-A software engineer at [Polymuse](https://polymuse.tech/).
+A software engineer at [Polymuse](https://polymuse.tech/). Ex competitive gamer; multiple tournament winner (if you want help improving, feel free to reach out on discord -- https://discord.gg/PamtgRqhUh).
 
 Casually building [Devpad](https://devpad.net/) (hideous at the moment). 
 
