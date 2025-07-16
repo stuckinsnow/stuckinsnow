@@ -2,8 +2,6 @@
 
 A software engineer at [Polymuse](https://polymuse.tech/).
 
-Casually building [Devpad](https://devpad.net/) (hideous at the moment). 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
 ### Main
