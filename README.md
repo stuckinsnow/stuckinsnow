@@ -9,4 +9,4 @@ A software engineer at [Polymuse](https://polymuse.tech/).
 *  TypeScript, JavaScript, Go, and a little bit of Lua.
 *  ThreeJS.
 *  Next.js, React.js.
-*  Linux, KVM, Docker, AWS & Oracle Cloud.
+*  Linux, KVM, Docker, AWS, Google & Oracle Cloud.
