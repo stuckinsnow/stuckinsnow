@@ -1,6 +1,8 @@
 # Hello 👋, I'm Philip 
 
-A software engineer at [Polymuse](https://polymuse.tech/). Slowly building [a blog](https://www.stuckinsnow.com/).
+A 3D software engineer at [Polymuse](https://polymuse.tech/). 
+
+I am slowly building an over engineered [blog](https://www.stuckinsnow.com/). 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
