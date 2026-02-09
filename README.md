@@ -1,6 +1,6 @@
 # Hello 👋, I'm Philip 
 
-A 3D software engineer at [Polymuse](https://polymuse.tech/). 
+A 3D software engineer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
 
 I am slowly building an over engineered [blog](https://www.stuckinsnow.com/). 
 
