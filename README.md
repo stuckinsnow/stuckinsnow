@@ -2,7 +2,7 @@
 
 A 3D software engineer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
 
-I am slowly building an over engineered [blog](https://www.stuckinsnow.com/). 
+I mostly work on ThreeJS stuff. But I am slowly building an over engineered [blog](https://www.stuckinsnow.com/). 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
 
