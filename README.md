@@ -1,10 +1,8 @@
 # Hello 👋, I'm Philip 
 
-A 3D software engineer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
+Founding 3D software engineer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
 
-I mostly work on ThreeJS stuff.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stuckinsnow&label=Profile%20views&color=0e75b6&style=flat" alt="stuckinsnow" /></p>
+I mostly work on ThreeJS stuff. 
 
 ### Main
 
