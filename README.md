@@ -1,6 +1,6 @@
 # Hello 👋, I'm Philip 
 
-Founding AI & 3D software Developer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
+Founding AI & 3D Software Developer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
 
 ### Main
 
