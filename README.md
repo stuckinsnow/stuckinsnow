@@ -1,12 +1,10 @@
 # Hello 👋, I'm Philip 
 
-Founding 3D software engineer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
-
-I mostly work on ThreeJS stuff. 
+Founding AI & 3D software Developer at [Polymuse](https://polymuse.tech/). Former competitive gamer. 
 
 ### Main
 
-*  TypeScript, JavaScript, Go, and a little bit of Lua.
+*  TypeScript, JavaScript & Go (Beginner).
 *  ThreeJS.
-*  Next.js, React.js.
-*  Linux, KVM, Docker, AWS, Google & Oracle Cloud.
+*  Next.js, React.js, Node.js, Express.
+*  Linux, KVM, Docker, AWS, GCP & Oracle Cloud.
