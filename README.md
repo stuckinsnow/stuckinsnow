@@ -2,7 +2,7 @@
 
 Founding AI & 3D Software Developer at [Polymuse](https://polymuse.tech/). 
 
-*  TypeScript, JavaScript & Go.
+*  TypeScript, JavaScript, Lua, Java & Go.
 *  Three.js.
 *  Next.js, React.js, Node.js, Express.
 *  Linux, KVM, Docker, AWS, GCP & Oracle Cloud.
